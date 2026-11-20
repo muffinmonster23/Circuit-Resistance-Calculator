@@ -27,7 +27,7 @@ from html import escape
 
 from drafter import *
 
-set_website_style("retro")
+set_website_style("standard")
 set_website_title("Circuit Resistance Calculator")
 set_site_information(
     author="Alex Yun",
